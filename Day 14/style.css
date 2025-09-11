@@ -1,0 +1,7 @@
+body{
+    background-color: lightblue;
+}
+div, span {
+            color: red;
+            background-color: yellow;
+        }
